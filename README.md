@@ -1,2 +1,2 @@
 # MyFirstRepository
-Exciting! My first ever repository! testing
+Exciting! My first ever repository! Testing.
