@@ -1,2 +1,2 @@
 # MyFirstRepository
-testing
+Exciting! My first ever repository! testing
